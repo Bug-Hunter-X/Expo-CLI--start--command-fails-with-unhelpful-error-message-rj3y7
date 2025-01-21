@@ -1,0 +1,1 @@
+This error typically occurs when you're using Expo's `start` command and have issues with your development environment setup or your project's configuration.  It's not a specific code error within your app, but rather a problem with Expo's ability to start the development server.  The vague error message makes debugging difficult.
